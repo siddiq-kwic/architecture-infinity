@@ -1,5 +1,5 @@
 export const ASSETS = {
-  logo: "https://architectureinfinity.com/wp-content/uploads/2020/08/logo.png",
+  logo: "/assets/arch-infinity.png",
   homeHero: "https://architectureinfinity.com/wp-content/uploads/2023/01/2.jpg",
   aboutHero: "https://architectureinfinity.com/wp-content/themes/theratio/images/bg-pheader.jpg",
   projectsHero: "https://architectureinfinity.com/wp-content/uploads/2022/12/1.jpg",
